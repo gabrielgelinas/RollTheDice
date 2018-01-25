@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="images_dice">
+        <item>@drawable/roll_01</item>
+        <item>@drawable/roll_02</item>
+        <item>@drawable/roll_03</item>
+        <item>@drawable/roll_04</item>
+        <item>@drawable/roll_05</item>
+        <item>@drawable/roll_06</item>
+    </integer-array>
+
+</resources>
